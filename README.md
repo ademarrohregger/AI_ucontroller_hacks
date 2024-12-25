@@ -6,7 +6,8 @@
 
 ## Microchip
 
-- [MPLAB_install](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
+
 
 - [ML index page](https://www.microchip.com/en-us/solutions/technologies/machine-learning)
   - [MPLAB ML Dev Suite](https://www.microchip.com/en-us/tools-resources/develop/mplab-machine-learning-development-suite)
+  - [MPLAB_install](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
