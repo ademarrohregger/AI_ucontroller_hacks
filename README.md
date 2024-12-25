@@ -6,5 +6,5 @@
 
 ## Microchip
 
--[MPLAB_install}(https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
+-[MPLAB_install](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
 
