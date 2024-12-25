@@ -1,6 +1,7 @@
 # AI_for_microcontrollers_hacks
 ## Google Coral TPUs for ucontrollers
 - [Products](https://coral.ai/products/)
+- [Examples](https://coral.ai/examples/)
 
 ## RPI
 
