@@ -8,3 +8,4 @@
 
 -[MPLAB_install](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
 
+- [ML index page](https://www.microchip.com/en-us/solutions/technologies/machine-learning)
