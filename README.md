@@ -2,10 +2,10 @@
 
 ## RPI
 
--[TS_and_RPI_Blog](https://learn.adafruit.com/running-tensorflow-lite-on-the-raspberry-pi-4/initial-setup)
+- [TS_and_RPI_Blog](https://learn.adafruit.com/running-tensorflow-lite-on-the-raspberry-pi-4/initial-setup)
 
 ## Microchip
 
--[MPLAB_install](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
+- [MPLAB_install](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
 
 - [ML index page](https://www.microchip.com/en-us/solutions/technologies/machine-learning)
