@@ -1,6 +1,7 @@
 # AI_for_microcontrollers_hacks
-
-## BEST CHOICE - Low Performance -  Orange Pi 5 PRO - Estimated Price: CAD$ 160
+## RPI for IoT  - Estimated Price: CAD$ 190
+- [Webpage](https://www.elastel.com/products/industrial-raspberry-pi/eg410-iot-gateway/)
+## $ Alternative to RPI 5 - Low Performance -  Orange Pi 5 PRO - Estimated Price: CAD$ 160
 - [Webpage](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5-Pro.html)
 ## BEST CHOICE - Medium Performance - Jetson Orin Nano Super Developer Kit - Estimated Price: CAD$ 350
 - [Webpage](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/)
