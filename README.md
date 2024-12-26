@@ -4,7 +4,7 @@
 - [Webpage](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5-Pro.html)
 ## BEST CHOICE - Medium Performance - Jetson Orin Nano Super Developer Kit - Estimated Price: CAD$ 350
 - [Webpage](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/)
-- 
+
 ## Google Coral TPUs for ucontrollers
 - [Products](https://coral.ai/products/)
 - [Examples](https://coral.ai/examples/)
