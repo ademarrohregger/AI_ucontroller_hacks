@@ -37,5 +37,10 @@
 ## Other Alternatives
 - [Toybrick](https://t.rock-chips.com/en/portal.php?mod=view&aid=21) - Estimated Price: CAD$ 120
 - [BeagleBoard](https://www.beagleboard.org/boards/beagleplay?gad_source=1&gclid=Cj0KCQiA9667BhDoARIsANnamQbIZ_QKCv7K8d-6gGmRiVrwX2Ko-pW8tGK02YOAURaNupAAQDPdaUgaAoeFEALw_wcB) - Estimated Price: CAD$ 150
-- 
-- 
+- [Rpi 500 with rpi CMS 4](https://www.raspberrypi.com/products/raspberry-pi-500/) - Estimated Price CAD$ 130
+- [Rpi 15" screen](https://www.canakit.com/raspberry-pi-monitor.html?cid=CAD&src=raspberrypi) - Estimated Price CAD$ 165
+
+## MS Windows Dev Kit 2023:
+- [Project Volterra](https://learn.microsoft.com/en-us/windows/arm/dev-kit/)
+
+## [Whitepaper](https://ai.hailo.ai/revolutionizing-ai-applications-at-the-edge-0?hs_preview=YYteznyI-92908387617&hsLang=en)
