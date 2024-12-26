@@ -35,4 +35,7 @@
   - [Usr's Guide](https://onlinedocs.microchip.com/oxy/GUID-80D4088D-19D0-41E9-BE8D-7AE3BE021BBF-en-US-3/GUID-E6CBB10A-FFC8-4EF3-8C07-D29B64446EB6.html)
  
 ## Other Alternatives
-- [Toybrick](https://t.rock-chips.com/en/portal.php?mod=view&aid=21)
+- [Toybrick](https://t.rock-chips.com/en/portal.php?mod=view&aid=21) - Estimated Price: CAD$ 120
+- [BeagleBoard](https://www.beagleboard.org/boards/beagleplay?gad_source=1&gclid=Cj0KCQiA9667BhDoARIsANnamQbIZ_QKCv7K8d-6gGmRiVrwX2Ko-pW8tGK02YOAURaNupAAQDPdaUgaAoeFEALw_wcB) - Estimated Price: CAD$ 150
+- 
+- 
