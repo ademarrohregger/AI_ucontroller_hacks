@@ -7,6 +7,7 @@
 ## RPI
 
 - [TS_and_RPI_Blog](https://learn.adafruit.com/running-tensorflow-lite-on-the-raspberry-pi-4/initial-setup)
+- [Chat_gpt_cameras](https://chatgpt.com/share/676cc49a-54c0-8013-98d4-ce0db16fa359)
 
 ## Microchip
 
