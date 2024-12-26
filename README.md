@@ -14,6 +14,8 @@
 - [AI kit webpage](https://www.raspberrypi.com/documentation/accessories/ai-kit.html)
   - [Datasheet](https://datasheets.raspberrypi.com/ai-kit/raspberry-pi-ai-kit-product-brief.pdf)
   - [Where to buy](https://www.canakit.com/raspberry-pi-ai-kit.html?cid=CAD&src=raspberrypi)
+- Where to buy:
+  - [Sparkfun](https://www.sparkfun.com/products/27249)
 
 ## Microchip
 
