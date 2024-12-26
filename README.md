@@ -33,3 +33,6 @@
   - [MPLAB ML Dev Suite](https://www.microchip.com/en-us/tools-resources/develop/mplab-machine-learning-development-suite)
   - [MPLAB_install](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
   - [Usr's Guide](https://onlinedocs.microchip.com/oxy/GUID-80D4088D-19D0-41E9-BE8D-7AE3BE021BBF-en-US-3/GUID-E6CBB10A-FFC8-4EF3-8C07-D29B64446EB6.html)
+ 
+## Other Alternatives
+- [Toybrick](https://t.rock-chips.com/en/portal.php?mod=view&aid=21)
