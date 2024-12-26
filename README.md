@@ -16,6 +16,7 @@
   - [Where to buy](https://www.canakit.com/raspberry-pi-ai-kit.html?cid=CAD&src=raspberrypi)
 - Where to buy:
   - [Sparkfun](https://www.sparkfun.com/products/27249)
+  - [Adafruit](https://www.adafruit.com/added)
 
 ## Microchip
 
