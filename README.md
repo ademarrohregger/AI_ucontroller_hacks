@@ -43,4 +43,5 @@
 ## MS Windows Dev Kit 2023:
 - [Project Volterra](https://learn.microsoft.com/en-us/windows/arm/dev-kit/)
 
-## [Whitepaper](https://ai.hailo.ai/revolutionizing-ai-applications-at-the-edge-0?hs_preview=YYteznyI-92908387617&hsLang=en)
+## Halo M.2 Key A+E 2230 ET - Estimated Price CAD$ 260
+- [Whitepaper](https://ai.hailo.ai/revolutionizing-ai-applications-at-the-edge-0?hs_preview=YYteznyI-92908387617&hsLang=en)
