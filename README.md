@@ -11,6 +11,7 @@
 - [OpenNCC](https://eyecloudai.github.io/openncc/1_Introduction.html#introduction)
 - [DepthAI for RPI](https://www.electronics-lab.com/depthai-enables-real-time-depth-vision-raspberry-pi/)
   - [DepthAI program example](https://github.com/jacobfnl/depthai-raspberrypi4)
+- [AI kit webpage](https://www.raspberrypi.com/documentation/accessories/ai-kit.html)
 
 ## Microchip
 
