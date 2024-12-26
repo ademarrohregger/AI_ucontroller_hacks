@@ -12,6 +12,7 @@
 - [DepthAI for RPI](https://www.electronics-lab.com/depthai-enables-real-time-depth-vision-raspberry-pi/)
   - [DepthAI program example](https://github.com/jacobfnl/depthai-raspberrypi4)
 - [AI kit webpage](https://www.raspberrypi.com/documentation/accessories/ai-kit.html)
+  - [Datasheet](https://datasheets.raspberrypi.com/ai-kit/raspberry-pi-ai-kit-product-brief.pdf)
 
 ## Microchip
 
