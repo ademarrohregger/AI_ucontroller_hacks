@@ -10,7 +10,7 @@
 - [Chat_gpt_cameras](https://chatgpt.com/share/676cc49a-54c0-8013-98d4-ce0db16fa359)
 - [OpenNCC](https://eyecloudai.github.io/openncc/1_Introduction.html#introduction)
 - [DepthAI for RPI](https://www.electronics-lab.com/depthai-enables-real-time-depth-vision-raspberry-pi/)
-`- [DepthAI program example](https://github.com/jacobfnl/depthai-raspberrypi4)
+  - [DepthAI program example](https://github.com/jacobfnl/depthai-raspberrypi4)
 
 ## Microchip
 
