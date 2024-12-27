@@ -2,6 +2,7 @@
 ## How to specify AI HW
 - [Puget Systems - Machine Learning & AI System Requirements](https://www.pugetsystems.com/solutions/ai-and-hpc-workstations/machine-learning-ai/hardware-recommendations/?utm_source=chatgpt.com)
 - [HPC page](https://www.pugetsystems.com/all-hpc/)
+- [Intel_solutions](https://www.intel.com/content/www/us/en/developer/articles/system-requirements/system-configuration-recommendations-for-ai-pcs.html)
 ## RPI for IoT  - Estimated Price: CAD$ 190
 - [Webpage](https://www.elastel.com/products/industrial-raspberry-pi/eg410-iot-gateway/)
 ## $ Alternative to RPI 5 - Low Performance -  Orange Pi 5 PRO - Estimated Price: CAD$ 160
