@@ -4,6 +4,7 @@
 - [HPC page](https://www.pugetsystems.com/all-hpc/)
 - [Intel_solutions](https://www.intel.com/content/www/us/en/developer/articles/system-requirements/system-configuration-recommendations-for-ai-pcs.html)
 -[Jetson Super Nano vs RPI 5 + Hai board vs Orange 5 pi Pro](https://chatgpt.com/share/676f6ae3-26a4-8013-acbb-3f6f50bb3a7c)
+- [When use a Windows +PC + GPU instead of Jetson super nano dev kit](https://chatgpt.com/share/676f6cb9-85cc-8013-9add-68f01be4ffc3)
 ## RPI for IoT  - Estimated Price: CAD$ 190
 - [Webpage](https://www.elastel.com/products/industrial-raspberry-pi/eg410-iot-gateway/)
 ## $ Alternative to RPI 5 - Low Performance -  Orange Pi 5 PRO - Estimated Price: CAD$ 160
